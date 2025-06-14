@@ -1,62 +1,76 @@
-<p align="center">
-    <img src="https://api.tsbot.ddns-ip.net/icon.png" width="250px" >
-    <h1 align="center">
-        <b>🍞吐司機器人[TSBOT]🍞</b>
-    </h1>
-</p>
-
-<p align="center">
-<a href="https://invite.tsbot.ddns-ip.net/">[ ╰╮ 邀請機器人 ╭╯ ]</a> 
-</p>
+<div align="center">
+  <img src="https://api.tsbot.ddns-ip.net/icon.png" width="200px" />
+  
+  <h1>🍞 吐司機器人 [TSBOT] 🍞</h1>
+  
+  <p><a href="https://invite.tsbot.ddns-ip.net/">【點我邀請機器人】</a></p>
+</div>
 
 ---
 
-<p align="center">
-    <a href="https://nodejs.org/">
-        <img alt="JavaScript" src="https://img.shields.io/badge/語言-JavaScript-yellow.svg?style=for-the-badge&logo=javascript" />
-    </a>
-    <a href="https://discord.js.org/">
-        <img alt="Discord.js" src="https://img.shields.io/badge/Discord框架-Discord.js-blue.svg?style=for-the-badge&logo=discord" />
-    </a>
-    <a href="https://discord.tsbot.ddns-ip.net" alt="Discord支援群組">
-        <img src="https://img.shields.io/discord/123456789012345678?style=for-the-badge&logo=discord&label=%E6%94%AF%E6%8F%B4%E4%BC%BA%E6%9C%8D%E5%99%A8"/>
-    </a>
-</p>
-<h3 align="center">
-    <a href="https://tsbot.ddns-ip.net/privacypolicy" alt="🔗TSBOT隱私權政策"><b>🔗TSBOT隱私權政策</b></a> • <a href="https://tsbot.ddns-ip.net/tos" alt="🔗TSBOT服務條款"><b>🔗TSBOT服務條款</b></a></br>
-    <b>吐司機器人(TSBOT)專屬代碼儲存庫</br>涵蓋多項實用功能、互動娛樂與社群管理!</b>
-<h3>
+<div align="center">
+
+<a href="https://nodejs.org/">
+  <img alt="JavaScript" src="https://img.shields.io/badge/語言-JavaScript-yellow.svg?style=for-the-badge&logo=javascript" />
+</a>
+<a href="https://discord.js.org/">
+  <img alt="Discord.js" src="https://img.shields.io/badge/框架-Discord.js-blue.svg?style=for-the-badge&logo=discord" />
+</a>
+<a href="https://discord.tsbot.ddns-ip.net">
+  <img alt="支援伺服器" src="https://img.shields.io/discord/123456789012345678?style=for-the-badge&logo=discord&label=%E6%94%AF%E6%8F%B4%E4%BC%BA%E6%9C%8D%E5%99%A8" />
+</a>
+
+</div>
+
+<div align="center">
+  <p>
+    <a href="https://tsbot.ddns-ip.net/privacypolicy"><b>🔗 隱私權政策</b></a> • 
+    <a href="https://tsbot.ddns-ip.net/tos"><b>🔗 服務條款</b></a>
+  </p>
+  <p><b>TSBOT 儲存庫：提供多元實用工具、娛樂互動功能、伺服器管理功能等！</b></p>
+</div>
 
 ---
 
-<h1 align="center"><b>👉注意👈</b></h1>
+## 👉 注意事項 👈
 
-> <h2 align="center"></br>請勿從事任何侵犯著作權之行為!</br>嚴禁未經授權使用、搬運或改作本儲存庫內容!<h2>
+> ### ❗ 請勿侵犯本專案版權 ❗  
+> 未經許可，禁止盜用、修改或另行發佈本儲存庫之內容。
 
 ---
 
-<h1 align="center"><b>📜指令簡介📜</b></h1>
+## 📜 指令簡介
+
 <details>
-<summary><u><b>點擊查看</b></u></summary>
-<p align="center">
-    <br>
+<summary><b>📂 點我展開指令列表</b></summary>
 
-    ✳️ <code>/圖片系統-生成圖片</code>  
-    ✳️ <code>/資訊系統-查詢mc伺服器狀態</code>  
+<br>
 
-    <br><br>
-    ✳️ 想查看更多指令嗎? 使用 <code>/help</code> 來查看吧! ✳️
-</p>
+- ✳️ `/圖片系統-生成圖片`  
+- ✳️ `/資訊系統-查詢mc伺服器狀態`
+
+<br>
+
+✳️ 想查看更多指令嗎？試試輸入 `/help`！
+
 </details>
 
 ---
 
-<h1 align="center"><b>🔗相關連結🔗</b></h1>
-<p align="center">
-    <a href="https://tsbot.ddns-ip.net/privacypolicy" alt="TSBOT隱私權政策"><b>TSBOT隱私權政策</b></a> • <a href="https://tsbot.ddns-ip.net/tos" alt="TSBOT服務條款"><b>TSBOT服務條款</b></a> • <a href="https://invite.tsbot.ddns-ip.net/" alt="TSBOT邀請連結"><b>TSBOT邀請連結</b></a> • <a href="https://discord.tsbot.ddns-ip.net/" alt="TSBOT支援群組"><b>TSBOT支援群組</b></a>
-</p>
+## 🔗 相關連結
+
+<div align="center">
+
+- <a href="https://tsbot.ddns-ip.net/privacypolicy">TSBOT 隱私權政策</a>  
+- <a href="https://tsbot.ddns-ip.net/tos">TSBOT 服務條款</a>  
+- <a href="https://invite.tsbot.ddns-ip.net/">TSBOT 邀請連結</a>  
+- <a href="https://discord.tsbot.ddns-ip.net/">TSBOT 支援群組</a>
+
+</div>
 
 ---
 
-<p align="center">版權所有© 2025 TSBOT</p>
-<p align="center">Copyright © 2025 TSBOT. All rights reserved.</p>
+<div align="center">
+  <p>版權所有 © 2025 TSBOT</p>
+  <p>Copyright © 2025 TSBOT. All rights reserved.</p>
+</div>
