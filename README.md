@@ -12,8 +12,8 @@
 
 ## 🧩 基本資訊
 
-- **語言**：![JavaScript](https://img.shields.io/badge/語言-JavaScript-yellow.svg?style=flat-square&logo=javascript)
-- **使用框架**：![Discord.js](https://img.shields.io/badge/框架-Discord.js-blue.svg?style=flat-square&logo=discord)
+- **語言**：![JavaScript](https://img.shields.io/badge/程式語言-JavaScript-yellow.svg?style=flat-square&logo=javascript)
+- **使用框架**：![Discord.js](https://img.shields.io/badge/機器人框架-Discord.js-blue.svg?style=flat-square&logo=discord)
 - **支援群組**：[加入 Discord 支援群組](https://discord.tsbot.ddns-ip.net/)
 
 ---
