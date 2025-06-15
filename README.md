@@ -16,20 +16,21 @@
 
 ## 🧩 基本資訊
 
-<p align="center">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-v18.18.2-yellow?style=for-the-badge&logo=javascript" />
-  <img alt="Discord.js" src="https://img.shields.io/badge/Discord.js-v14.14.1-blue?style=for-the-badge&logo=discord" />
-</p>
-
-<p align="center">
-  <a href="https://discord.tsbot.ddns-ip.net/">
-    <img src="https://img.shields.io/discord/123456789012345678?style=for-the-badge&label=TSBOT%20支援社群&logo=discord&logoColor=white&color=5865F2" alt="TSBOT 支援社群" />
+<div align="center" style="display:flex; flex-direction:column; gap:0; margin:0; padding:0; align-items:center;">
+  <img alt="TSBOT 擁有者" src="https://img.shields.io/badge/TSBOT擁有者-ryan110781-9cf?style=for-the-badge&logo=github" style="margin:0; padding:0;" />
+  
+  <div style="margin:0; padding:0;">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-v18.18.2-yellow?style=for-the-badge&logo=javascript" style="margin:0; padding:0;" />
+    <img alt="Discord.js" src="https://img.shields.io/badge/Discord.js-v14.14.1-blue?style=for-the-badge&logo=discord" style="margin:0; padding:0;" />
+  </div>
+  
+  <a href="https://discord.tsbot.ddns-ip.net" alt="Discord支援群組" style="margin:0; padding:0;">
+    <img 
+      src="https://img.shields.io/discord/1176128602018959371?style=for-the-badge&logo=discord&label=%E6%94%AF%E6%8F%B4%E4%BC%BA%E6%9C%8D%E5%99%A8" 
+      style="vertical-align:middle; margin:0; padding:0;" 
+    />
   </a>
-</p>
-
-<p align="center">
-  <img alt="TSBOT 擁有者" src="https://img.shields.io/badge/TSBOT擁有者-ryan110781-9cf?style=for-the-badge&logo=github" />
-</p>
+</div>
 
 ---
 
