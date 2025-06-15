@@ -1,20 +1,35 @@
 # 🍞 吐司機器人 [TSBOT] 🍞
 
-![TSBOT 圖示](https://api.tsbot.ddns-ip.net/icon.png)
+<p align="center">
+  <img src="https://api.tsbot.ddns-ip.net/icon.png" width="200px" alt="TSBOT LOGO" />
+</p>
 
 ---
 
 ## 📥 馬上邀請機器人！
 
-👉 [點我邀請 TSBOT](https://invite.tsbot.ddns-ip.net/)
+<p align="center">
+  <a href="https://invite.tsbot.ddns-ip.net/"><b>👉 點我邀請 TSBOT 👈</b></a>
+</p>
 
 ---
 
 ## 🧩 基本資訊
 
-![JavaScript](https://img.shields.io/badge/JavaScript-v18.18.2-yellow?style=flat-square&logo=javascript)
-![Discord.js](https://img.shields.io/badge/Discord.js-v14.14.1-blue?style=flat-square&logo=discord)
-[![Discord](https://img.shields.io/discord/123456789012345678?label=TSBOT%20支援群組&logo=discord&style=flat-square)](https://discord.tsbot.ddns-ip.net/)
+<p align="center">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-v18.18.2-yellow?style=for-the-badge&logo=javascript" />
+  <img alt="Discord.js" src="https://img.shields.io/badge/Discord.js-v14.14.1-blue?style=for-the-badge&logo=discord" />
+</p>
+
+<p align="center">
+  <a href="https://discord.tsbot.ddns-ip.net/">
+    <img src="https://img.shields.io/discord/123456789012345678?style=for-the-badge&label=TSBOT%20支援社群&logo=discord&logoColor=white&color=5865F2" alt="TSBOT 支援社群" />
+  </a>
+</p>
+
+<p align="center">
+  <img alt="TSBOT 擁有者" src="https://img.shields.io/badge/TSBOT擁有者-ryan110781-9cf?style=for-the-badge&logo=github" />
+</p>
 
 ---
 
