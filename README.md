@@ -12,9 +12,9 @@
 
 ## 🧩 基本資訊
 
-- **語言**：![JavaScript](https://img.shields.io/badge/程式語言-JavaScript-yellow.svg?style=flat-square&logo=javascript)
-- **使用框架**：![Discord.js](https://img.shields.io/badge/機器人框架-Discord.js-blue.svg?style=flat-square&logo=discord)
-- **支援群組**：[加入 Discord 支援群組](https://discord.tsbot.ddns-ip.net/)
+![JavaScript](https://img.shields.io/badge/JavaScript-v18.18.2-yellow?style=flat-square&logo=javascript)
+![Discord.js](https://img.shields.io/badge/Discord.js-v14.14.1-blue?style=flat-square&logo=discord)
+[![Discord](https://img.shields.io/discord/123456789012345678?label=TSBOT%20支援群組&logo=discord&style=flat-square)](https://discord.tsbot.ddns-ip.net/)
 
 ---
 
