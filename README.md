@@ -24,7 +24,7 @@
     <img alt="Discord.js" src="https://img.shields.io/badge/Discord.js-v14.14.1-blue?style=for-the-badge&logo=discord" style="margin:0; padding:0;" />
   </div>
   
-  <a href="https://discord.tsbot.ddns-ip.net" alt="Discord支援群組" style="margin:0; padding:0;">
+  <a href="https://discord.gg/8dnVmYNtD7" alt="Discord支援群組" style="margin:0; padding:0;">
     <img 
       src="https://img.shields.io/discord/1176128602018959371?style=for-the-badge&logo=discord&label=%E6%94%AF%E6%8F%B4%E4%BC%BA%E6%9C%8D%E5%99%A8" 
       style="vertical-align:middle; margin:0; padding:0;" 
