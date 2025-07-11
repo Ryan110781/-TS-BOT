@@ -9,7 +9,7 @@
 ## 📥 馬上邀請機器人！
 
 <p align="center">
-  <a href="https://invite.tsbot.ddns-ip.net/"><b>👉 點我邀請 TSBOT 👈</b></a>
+  <a href="https://discord.com/oauth2/authorize?client_id=1384312352345948361"><b>👉 點我邀請 TSBOT 👈</b></a>
 </p>
 
 ---
