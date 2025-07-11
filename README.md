@@ -60,10 +60,10 @@
 
 ## 🔗 快速連結
 
-- [📄 隱私權政策](https://tsbot.ddns-ip.net/privacypolicy)
-- [📑 服務條款](https://tsbot.ddns-ip.net/tos)
-- [🤖 邀請 TSBOT](https://invite.tsbot.ddns-ip.net/)
-- [💬 支援 Discord 群組](https://discord.tsbot.ddns-ip.net/)
+- [📄 隱私權政策](https://tsbot.ddns.net/terms.php)
+- [📑 服務條款](https://tsbot.ddns.net/terms.php)
+- [🤖 邀請 TSBOT](https://discord.com/oauth2/authorize?client_id=1384312352345948361)
+- [💬 支援 Discord 群組](https://discord.gg/8dnVmYNtD7)
 
 ---
 
