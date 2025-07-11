@@ -36,8 +36,8 @@
 
 ## 🛡️ 法律與聲明
 
-- 🔗 [TSBOT 隱私權政策](https://tsbot.ddns-ip.net/privacypolicy)  
-- 🔗 [TSBOT 服務條款](https://tsbot.ddns-ip.net/tos)
+- 🔗 [TSBOT 隱私權政策](https://tsbot.ddns.net/terms.php)  
+- 🔗 [TSBOT 服務條款](https://tsbot.ddns.net/terms.php)
 
 > **❗ 重要聲明**  
 > **請勿未經授權使用本儲存庫內容，嚴禁盜用、複製、另行架設或販售本機器人程式。**
